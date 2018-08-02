@@ -1,3 +1,6 @@
 [submodule "test.empty"]
 	path = test.empty
 	url = https://github.com/wmhilton/test.empty
+[submodule "dukroll"]
+	path = dukroll
+	url = https://gitlab.com/dukboot/dukroll
